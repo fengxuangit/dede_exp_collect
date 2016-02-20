@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-##dedecms漏洞利用集合
-
-> fengxuan  2016.02.16
-
-收集织梦程序漏洞，采用pocsuite框架写exp， 一键日dede！
-
-####很早之前就像写了，一直没时间。大家如果有好的dede的洞或者其他的一些建议告诉我哦。同道中人，都是为了方便。
-=======
 ##<center>dede_exp_collect说明</center>
 
 > fengxuan 2016.02.16
@@ -23,5 +14,4 @@
   + /plus/guestbook.php 注入
   + /plus/search.php 注入
   + /plus/recommend.php 注入
-  
->>>>>>> 653d1989a51d1292509d8a8f59efe76ec03ac667
+
