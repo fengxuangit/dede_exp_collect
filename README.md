@@ -14,4 +14,4 @@
   + /plus/guestbook.php 注入
   + /plus/search.php 注入
   + /plus/recommend.php 注入
-
+  + /plus/download.php 注入
