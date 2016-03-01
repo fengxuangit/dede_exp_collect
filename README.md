@@ -15,3 +15,6 @@
   + /plus/search.php 注入
   + /plus/recommend.php 注入
   + /plus/download.php 注入 / getshell
+
+收集的漏洞 
+http://www.wooyun.org/bugs/wooyun-2014-051950
