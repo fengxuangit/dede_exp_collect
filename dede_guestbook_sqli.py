@@ -9,7 +9,7 @@ from pocsuite.poc import POCBase,Output
 from pocsuite.utils import register
 
 class Fuckdede(POCBase):
-	vulID='1'
+	vulID='2'
 	version = '1'
 	author = ['fengxuan']
 	vulDate = '2016-2-13'

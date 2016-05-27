@@ -16,6 +16,9 @@
   + /plus/recommend.php 注入
   + /plus/download.php 注入 / getshell
   + /plus/feedback.php 注入 (此漏洞无法编写poc，注1) 
+  + /install/index.php.bak 命令执行 getshell
+
+
 收集的漏洞 
 http://www.wooyun.org/bugs/wooyun-2014-051950
 
